@@ -12,6 +12,8 @@
     },
     "bin": ["BQN.exe"],
     "checkver": {
-        "github": "https://github.com/actalley/WinBQN/"
+		"url": "https://api.github.com/repos/actalley/WinBQN/releases",
+		"jsonpath": "$[0].name",
+		"regex": "v([\\d.]+-alpha)"
     }
 }
