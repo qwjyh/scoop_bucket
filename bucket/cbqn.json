@@ -12,6 +12,6 @@
     },
     "bin": ["BQN.exe"],
     "checkver": {
-        "github": "https://github.com/actalley/WinBQN/releases"
+        "github": "https://github.com/actalley/WinBQN/"
     }
 }
