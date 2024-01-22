@@ -1,5 +1,5 @@
 {
-    "version": "v3.16.0",
+    "version": "3.16.0",
     "description": "A common platform for PowerShell development support in any editor or application!",
     "homepage": "https://github.com/PowerShell/PowerShellEditorServices",
     "license": "MIT",
