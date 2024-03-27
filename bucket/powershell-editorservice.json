@@ -1,10 +1,10 @@
 {
-    "version": "3.18.0",
+    "version": "3.18.1",
     "description": "A common platform for PowerShell development support in any editor or application!",
     "homepage": "https://github.com/PowerShell/PowerShellEditorServices",
     "license": "MIT",
-    "url": "https://github.com/PowerShell/PowerShellEditorServices/releases/download/v3.18.0/PowerShellEditorServices.zip",
-    "hash": "b5624eeae84e4a23e1ef2b9516d29a9e0df02640470987a9f95757c05faee926",
+    "url": "https://github.com/PowerShell/PowerShellEditorServices/releases/download/v3.18.1/PowerShellEditorServices.zip",
+    "hash": "a3105b77da3ab88364e124e3d96348dead5d1299013523b03fa8855f7c23100a",
     "bin": "",
     "extract_dir": "",
     "checkver": "github"
